@@ -1,0 +1,16 @@
+learning_rate: 0.00001
+batch_size: 4
+weight_decay: 0.05
+epochs: 4
+checkpoint_frequency: 2000
+num_workers: 4
+model_path: ''
+num_view: 6 # set 1 for codalm
+moe_out_channels: [ 128, 64, 16 ]
+text_guide: True
+num_experts: 4
+seed: -1
+freeze_img_encoder: False
+encoder_output: [ 2,3,4,5 ]
+lr_scheduler: 'exp'
+top_k: 4
