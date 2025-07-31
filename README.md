@@ -25,3 +25,7 @@ Please follow [EM-VLM4AD](https://github.com/akshaygopalkr/EM-VLM4AD) and [CODA-
 ## Acknowledge
 
 Our code are based on [EM-VLM4AD](https://github.com/akshaygopalkr/EM-VLM4AD) and [UniRepLKNet](https://github.com/AILab-CVC/UniRepLKNet) repository. We thank the authors for releasing their code.
+
+## Additional Notes
+
+Our current work is under submission for AAAI 2026. Please note that this code is for academic/research purposes only and commercial use is strictly prohibited.
